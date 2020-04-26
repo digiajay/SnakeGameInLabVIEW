@@ -11,12 +11,20 @@
 		<Property Name="server.vi.callsEnabled" Type="Bool">true</Property>
 		<Property Name="server.vi.propertiesEnabled" Type="Bool">true</Property>
 		<Property Name="specify.custom.address" Type="Bool">false</Property>
+		<Item Name="Classes" Type="Folder">
+			<Item Name="SnakeBodyCell.lvclass" Type="LVClass" URL="../LV_Classes/BodyCell/SnakeBodyCell.lvclass"/>
+			<Item Name="Snake.lvclass" Type="LVClass" URL="../LV_Classes/Snake/Snake.lvclass"/>
+			<Item Name="2D_Representer.lvclass" Type="LVClass" URL="../LV_Classes/2D_Representer/2D_Representer.lvclass"/>
+			<Item Name="Feeder.lvclass" Type="LVClass" URL="../LV_Classes/Feeder/Feeder.lvclass"/>
+		</Item>
+		<Item Name="Typedefs" Type="Folder">
+			<Item Name="DisplaySize.ctl" Type="VI" URL="../Typedefs/DisplaySize.ctl"/>
+			<Item Name="UnitDirection.ctl" Type="VI" URL="../Typedefs/UnitDirection.ctl"/>
+			<Item Name="XYposition.ctl" Type="VI" URL="../Typedefs/XYposition.ctl"/>
+			<Item Name="CellType.ctl" Type="VI" URL="../Typedefs/CellType.ctl"/>
+			<Item Name="Colors.ctl" Type="VI" URL="../Typedefs/Colors.ctl"/>
+		</Item>
 		<Item Name="Snake Game.vi" Type="VI" URL="../Snake Game.vi"/>
-		<Item Name="2D_Representer.lvclass" Type="LVClass" URL="../LV_Classes/2D_Representer/2D_Representer.lvclass"/>
-		<Item Name="Snake.lvclass" Type="LVClass" URL="../LV_Classes/Snake/Snake.lvclass"/>
-		<Item Name="SnakeBodyCell.lvclass" Type="LVClass" URL="../LV_Classes/BodyCell/SnakeBodyCell.lvclass"/>
-		<Item Name="UnitDirection.ctl" Type="VI" URL="../Typedefs/UnitDirection.ctl"/>
-		<Item Name="XYposition.ctl" Type="VI" URL="../Typedefs/XYposition.ctl"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="GetHelpDir.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/GetHelpDir.vi"/>
