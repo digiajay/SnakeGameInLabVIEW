@@ -8,6 +8,7 @@ Used OpenGDS for easy icon updates
 
 # Class Diagrams
 ![Class Diagram](https://github.com/digiajay/SnakeGameInLabVIEW/blob/master/Docs/Snake%20Game%20in%20LabVIEW.png)
+
 [Edit Here](https://app.diagrams.net/#Hdigiajay%2FSnakeGameInLabVIEW%2Fmaster%2FDocs%2FSnake%20Game%20in%20LabVIEW.png)
 
 # First Version of Game
