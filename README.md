@@ -12,6 +12,11 @@ Used OpenGDS for easy icon updates
 
 
 # First Version of Game
-![IMAGE ALT TEXT HERE](https://github.com/digiajay/SnakeGameInLabVIEW/blob/master/Docs/SnakeGameBasicMovements.gif)
+![Snake Game Basic Movements in LabVIEW](https://github.com/digiajay/SnakeGameInLabVIEW/blob/master/Docs/SnakeGameBasicMovements.gif)
 
 [YouTube Video Here](https://www.youtube.com/watch?v=ztNvPG_1a_o)
+
+# First Version of Game
+![Snake Game Feed Eater](https://github.com/digiajay/SnakeGameInLabVIEW/blob/master/Docs/SnakeGameFeedEater.gif)
+
+[YouTube Video Here](https://www.youtube.com/watch?v=l2sOo1quvmU)
